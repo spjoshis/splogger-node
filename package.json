@@ -1,0 +1,28 @@
+{
+  "_location": "/spjoshis",
+  "author": "Gopal Joshi <gopal.josh73@gmail.com>",
+  "deprecated": false,
+  "description": "A logger library for Node.Js Applications",
+  "engines": {
+    "node": ">=3.0"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "homepage": "https://github.com/spjoshis/splogger-node#readme",
+  "keywords": [
+    "logger",
+    "library",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "main": "./lib",
+  "name": "splogger-node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spjoshis/splogger-node.git"
+  },
+  "scripts": {},
+  "version": "1.0.3"
+}
